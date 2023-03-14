@@ -1,3 +1,40 @@
 <resources>
     <string name="app_name">RecyclerView</string>
+    <string-array name="fruitsName">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Orange</item>
+        <item>Mango</item>
+        <item>Watermelon</item>
+        <item>Strawberry</item>
+        <item>Grapes</item>
+        <item>Pineapple</item>
+        <item>Pear</item>
+        <item>Peach</item>
+    </string-array>
+
+    <string-array name="fruitsShortInfo">
+        <item>A sweet, juicy fruit that is high in fiber and vitamin C.</item>
+        <item>A sweet, yellow fruit that is high in potassium and vitamin C.</item>
+        <item>A citrus fruit that is high in vitamin C and antioxidants.</item>
+        <item>A tropical fruit that is high in fiber, vitamin C, and beta-carotene.</item>
+        <item>A juicy fruit that is high in water content and vitamin C.</item>
+        <item>A small, red fruit that is high in vitamin C and antioxidants.</item>
+        <item>A small, round fruit that comes in many colors and is high in antioxidants.</item>
+        <item>A tropical fruit that is high in vitamin C, manganese, and bromelain.</item>
+        <item>A sweet, juicy fruit that is high in fiber and vitamin C.</item>
+        <item>A fuzzy fruit that is high in fiber, vitamin C, and antioxidants.</item>
+    </string-array>
+
+    <string name="apple_info">Apples are a sweet, crunchy fruit that come in a variety of colors and sizes. They are a good source of fiber, vitamin C, and antioxidants, and are low in calories. Apples are a versatile fruit that can be eaten raw or cooked in a variety of ways, and are often used in baking and desserts.</string>
+    <string name="banana_info">Bananas are a sweet, yellow fruit that are high in potassium, fiber, and vitamin C. They are a convenient snack that can be eaten on the go, and are also used in smoothies, desserts, and baked goods. Bananas are a good source of energy and can help to regulate digestion and blood sugar levels.</string>
+    <string name="orange_info">Oranges are a citrus fruit that are high in vitamin C, folate, and antioxidants. They are a juicy, sweet fruit that can be eaten on their own or used in juice, smoothies, and other drinks. Oranges can also be used in cooking and baking, and their zest can add a bright, citrus flavor to many dishes.</string>
+    <string name="mango_info">Mangos are a tropical fruit that are high in fiber, vitamin C, and beta-carotene. They have a sweet, juicy flesh that can be eaten on its own or used in smoothies, desserts, and other dishes. Mangos are also a good source of antioxidants and may have anti-inflammatory and digestive benefits.</string>
+    <string name="watermelon_info">Watermelons are a juicy, refreshing fruit that are high in water content, vitamin C, and antioxidants. They are a popular summertime fruit that can be eaten on its own or used in salads, smoothies, and other dishes. Watermelons are also low in calories and may have anti-inflammatory and hydrating properties.</string>
+    <string name="strawberry_info">Strawberries are a small, sweet fruit that are high in vitamin C and antioxidants. They are often used in desserts, salads, and other dishes, and can also be eaten on their own as a snack. Strawberries are a good source of fiber and may have anti-inflammatory and cardiovascular benefits.</string>
+    <string name="grapes_info">Grapes are a small, round fruit that come in many colors and are high in antioxidants and polyphenols. They are often eaten as a snack or used in wine, juice, and other drinks. Grapes may also have anti-inflammatory and cardiovascular benefits, and their seeds can be used in cooking and baking.</string>
+    <string name="pineapple_info">Pineapples are a tropical fruit that are high in vitamin C, manganese, and bromelain, an enzyme that may have anti-inflammatory and digestive benefits. They have a sweet, juicy flesh that can be eaten on its own or used in smoothies, desserts, and other dishes. Pineapples are also a good source of fiber and antioxidants.</string>
+    <string name="pear_info">Pears are a sweet, juicy fruit that come in many varieties and are high in fiber, vitamin C, and antioxidants. They are often used in desserts, salads, and other dishes, and can also be eaten on their own as a snack. Pears may also have anti-inflammatory and cardiovascular benefits.</string>
+    <string name="peach_info">Peaches are a fuzzy fruit that are high in fiber, vitamin C, and antioxidants. They have a sweet, juicy flesh that can be eaten on its own or used in desserts, smoothies, and other dishes. Peaches may also have anti-inflammatory and cardiovascular benefits, and their skin can be eaten or used in recipes for added nutrition.</string>
+
 </resources>
